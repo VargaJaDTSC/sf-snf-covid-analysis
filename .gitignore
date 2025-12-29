@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Large data files (not tracked due to size limits)
+data/*.csv
+
 # Distribution / packaging
 .Python
 build/
